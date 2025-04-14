@@ -52,8 +52,6 @@
 
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #1a73e8;">🖼 Screenshots</h2>
 
-<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">📸 Replace the image paths with real screenshots.</p>
-
 <h3 style="color: #555;">Landing Page</h3>
 <img src="https://i.postimg.cc/rmwgQ5pz/Screenshot-2025-04-14-171809.png" alt="Landing Page" style="width: 100%; max-width: 800px; border: 1px solid #ccc; border-radius: 10px; margin: 1rem 0;" />
 
