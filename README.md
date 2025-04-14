@@ -46,7 +46,7 @@
   <li><strong>Frontend:</strong> React, Context API, Chart.js, Custom CSS</li>
   <li><strong>Backend:</strong> Node.js, Express</li>
   <li><strong>Database:</strong> MongoDB with Mongoose</li>
-  <li><strong>Auth:</strong> Clerk / Auth0</li>
+  <li><strong>Auth:</strong> Bcrypt, MongoDB</li>
   <li><strong>Hosting:</strong> Vercel (frontend), Render (backend)</li>
 </ul>
 
